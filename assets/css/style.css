@@ -1,0 +1,80 @@
+* {
+  box-sizing: border-box;
+}
+
+.header {
+	background: #ffffff;
+	padding: 0px 0px 0px 80px;
+	width: 100%;
+	height: 80px;
+	margin-bottom: 50px;
+	border-color: #cccccc;
+	border-style: solid;
+    border-width: 0px 0px 2px 0px;
+	}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 36px;
+  line-height: 45px;
+  font-family: Georgia;
+}
+
+a {
+	color: #777777;
+}
+
+h3 {
+	font-size: 22px;
+	margin-bottom: 10px;
+	font-family: Georgia;
+}
+
+.navbar {
+	float: right;
+	padding: 35px 80px 35px 30px;
+	font-family: Helvetica;
+	font-size: 18px;
+	color: #777777;
+}
+
+.tealbox {
+	background: #4aaaa5;
+	padding: 20px 30px 20px 30px;
+	height: 80px;
+	color: #ffffff;
+	float: left;
+}
+
+.tealfont {
+	color: #4aaaa5;
+}
+
+.bodytext {
+	font-family: Helvetica;
+	color: #777777;
+	font-size: 18px;
+	line-height: 20px;
+}
+
+.content {
+	background: #ffffff;
+	border-color: #cccccc;
+	border-style: solid;
+	border-width: 2px;
+	margin-left: 80px; 
+	width: 50%;
+	padding: 20px;
+	float: left;
+}
+
+.connect {
+	float: right;
+	background: #ffffff;
+	border-color: #cccccc;
+	border-style: solid;
+	border-width: 2px;
+	margin-right: 80px;
+	padding: 20px;
+}
+
